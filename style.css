@@ -1,0 +1,65 @@
+#wrapper {
+    height: calc(100vh - 120.8px);
+    font-family: 'Space Mono', monospace;
+}
+/* 
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+} */
+
+.title, .description {
+    color: #333333;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.description {
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+.btn {
+    text-transform: uppercase;
+    border-radius: 0;
+    font-size: .7rem;
+    background: #333333;
+    color: white;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: -0.08rem;
+    color: #333333;
+}
+
+#credits {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .7rem;
+    color: #BDBDBD;
+}
+
+span {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 2.5rem;
+    }
+    
+    .description {
+        font-size: 1rem;
+    }
+}
