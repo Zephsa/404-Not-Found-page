@@ -39,7 +39,7 @@
 ![screenshot](https://github.com/Zephsa/404-Not-Found-page/blob/main/404-not-found-desktop.JPG)
 ![mobile](https://github.com/Zephsa/404-Not-Found-page/blob/main/404-not-found-mobile.JPG)
 
-For this challenge I used Bootstrap 5. I really had an hard time trying to center the block vertically, but after a lot of research I finally managed to do it. I learned a lot about creating responsive layouts using Bootstrap and Flexbox, including how to make an image responsive and how to adjust width and height of columns. I'm only encountering a little problem with the section at the bottom, at a particular viewport it "moves" on top of other content and doesn't stay fixed at bottom.
+For this challenge I used Bootstrap 5. I had an hard time trying to center the block vertically, but after some research I finally managed to do it. I learned a lot about creating responsive layouts using Bootstrap and Flexbox, including how to make an image responsive and how to adjust width and height of columns. 
 
 ### Built With
 
